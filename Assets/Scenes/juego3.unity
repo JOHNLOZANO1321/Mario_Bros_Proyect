@@ -145,7 +145,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 600115100362070691, guid: 32823c4048a4fbd43acce99118317430, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.04
+      value: -5.57
       objectReference: {fileID: 0}
     - target: {fileID: 600115100362070691, guid: 32823c4048a4fbd43acce99118317430, type: 3}
       propertyPath: m_LocalPosition.y
@@ -945,8 +945,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 17, y: -5.25}
-  m_SizeDelta: {x: 22.75, y: 21}
+  m_AnchoredPosition: {x: 13.727676, y: -3.5768209}
+  m_SizeDelta: {x: 16.20536, y: 26.56742}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &338884608
 MonoBehaviour:
@@ -968,7 +968,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: a74661eff89401f4ba54c0e3f64e0861, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 7783cd70db894c44b830dc9665335523, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -2784,7 +2784,7 @@ MonoBehaviour:
   vidaTotal: 0
   vidaActual: 0
   textoVidaPlayer: {fileID: 142856486}
-  posicionInicial: {x: -6.04, y: -1.171, z: 6.78}
+  posicionInicial: {x: -5.57, y: -1.171, z: 6.78}
   fuerzaHorizontal: 3
   fuerzaVertical: 8
   altruaRayo: 8
